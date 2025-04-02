@@ -6,7 +6,7 @@ title: Yik Yu (Anson) Ng
 # name_pronunciation: An Son
 
 # Full name (for SEO)
-first_name: Anson
+first_name: Yik Yu (Anson)
 last_name: Ng
 
 # Status emoji
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Year 3 Undergrad
+role: Undergrad
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,18 +37,19 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/github
+    url: https://github.com/yyn-anson
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yik-yu-ng-7847b62a7/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
 interests:
+  - Computational Social Science
+  - Data mining
   - Computer Vision
-  - Computer Graphics
 
 education:
   - area: Honour BSc. in Computer Science
@@ -56,12 +57,13 @@ education:
     date_start: 2023-08-28
     date_end: 2026-06-01
     summary: |
-      CGPA: 3.94/4.0
+      CGPA: 3.96/4.0
 
-      Solid foundation in Computer Science and Math, targeting in Machine Learning, Computer Vision and Graphics. Pursuing thesis based MSc. and PhD.
-    button:
-      text: 'Read Transcript'
-      url: 'https://drive.google.com/file/d/16aGfXbzQKYADjk-CEalvrBjfbl_ELjyQ/view?usp=sharing'
+
+      
+    # button:
+    #   text: 'Read Transcript'
+    #   url: 'https://drive.google.com/file/d/16aGfXbzQKYADjk-CEalvrBjfbl_ELjyQ/view?usp=sharing'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -172,4 +174,4 @@ awards:
 
 ## About Me
 
-Yik Yu Ng is year 3 undergraduate student studying at McGill University, aiming at research as career goal. My interest areas are computer vision, computer graphics, 3D vision, Medical Imaging, ...
+Yik Yu Ng is year 3 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.
