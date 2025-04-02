@@ -29,7 +29,6 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: In *The 31st Annual International Conference on Mobile Computing and Networking*
 publication_short: In *ACM MOBICOM ’25*
-
 abstract: |2-
   Regular glucose monitoring is crucial for diabetic patients to
   avoid the risk of health complications such as stroke, kidney
