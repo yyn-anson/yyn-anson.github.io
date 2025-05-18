@@ -97,4 +97,4 @@ Future work will address several promising avenues:
 
 By providing accessible tools for bias detection without relying on costly labeled data or domain-specific customization, this project aims to contribute to a more informed and discerning public discourse in the digital age.
 
-<iframe src="uploads/COMP400_Bias_Rating.pdf" width="100%" height="600px"></iframe>
+<!-- <iframe src="uploads/COMP400_Bias_Rating.pdf" width="100%" height="600px"></iframe> -->
