@@ -1,6 +1,6 @@
 ---
 title: "Quick Draw: Interactive Animal Recognition Web App"
-date: "2023-10-01"
+date: 2023-10-01
 description: "A collaborative machine learning project leveraging the Quick Draw dataset to create an interactive web application for animal recognition with high accuracy."
 featured_image: "https://via.placeholder.com/800x600"
 tags: ["machine learning", "web development", "quick draw"]

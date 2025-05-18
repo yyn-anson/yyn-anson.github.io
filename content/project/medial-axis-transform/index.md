@@ -1,10 +1,9 @@
 ---
 title: "Medial Axis Transform: Geometric Cues in Scene Categorization"
-date: "2024-11-01"
+date: 2024-11-01
 description: "A comprehensive course final project for COMP 558 at McGill University that replicates and extends research on scene categorization through geometric cues."
 featured_image: "https://via.placeholder.com/800x600"
 tags: [computer vision, research, imaging]
-type: "project"
 ---
 
 # Medial Axis Transform
