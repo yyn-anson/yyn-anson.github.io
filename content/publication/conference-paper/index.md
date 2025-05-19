@@ -27,8 +27,8 @@ publishDate: '2025-11-04T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 31st Annual International Conference on Mobile Computing and Networking*
-publication_short: In *ACM MOBICOM ’25*
+publication: "In *The 31st Annual International Conference on Mobile Computing and Networking*"
+publication_short: "In *ACM MOBICOM ’25*"
 
 abstract: |2-
   Regular glucose monitoring is crucial for diabetic patients to avoid the risk of health complications such as stroke, kidney
@@ -89,7 +89,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'GlucoSense'
   # caption: ''
   focal_point: ''
   preview_only: false
