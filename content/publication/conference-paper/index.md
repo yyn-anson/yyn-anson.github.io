@@ -5,10 +5,10 @@ title: 'GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Neha Sharma
-  - Mariam Bebawy
-  - admin
-  - Mohamed Hefeeda
+- Neha Sharma
+- Mariam Bebawy
+- admin
+- Mohamed Hefeeda
 
 # Author notes (optional)
 # author_notes:
@@ -64,10 +64,10 @@ abstract: |2-
 summary: 
 
 tags:
-  # - Large Language Models
-  - Blood Glucose
-  - Mobile Health
-  - Hyperspectral Imaging
+# - Large Language Models
+- Blood Glucose
+- Mobile Health
+- Hyperspectral Imaging
 
 # Display this page in the Featured widget?
 featured: true
