@@ -113,7 +113,7 @@ work:
     summary: |2-
       Goal: Detecting misinformation/bias on social media outlets in unsupervised learning and using social network analysis to quantify the impact of bias to the political stance of public
 
-      It is an independent research contribution under guidance by professor
+      It is an **independent research contribution** under guidance by professor
 
       Key Responsibilities include:
       - Quantify political leaning of articles by article embedding method
