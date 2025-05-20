@@ -122,7 +122,7 @@ work:
       
       Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
 
-    See Project: <a href="/project/honour-research/">Honour Research Project</a>
+    See Project: <a href="../../project/honour-research/">Honour Research Project</a>
 
   - position: Research Assistant
     company_name: Simon Fraser University
@@ -139,7 +139,7 @@ work:
 
       Supervised by Professor Mohamed Hefeeda
 
-      See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+      See Publication: <a href="../../publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
       
   # - position: Backend Software Engineer
   #   company_name: X
@@ -190,7 +190,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 70
-        icon: person-simple-walk
+        icon: Badminton
       - name: Cats
         description: ''
         percent: 100
@@ -198,7 +198,7 @@ skills:
       - name: Guitar and Drums
         description: ''
         percent: 80
-        icon: camera
+        icon: Guitar
 
 languages:
   - name: English
