@@ -60,6 +60,7 @@ education:
     date_end: 2026-06-01
     summary: |
       CGPA: 3.96/4.0
+
       Dean's Honour List
 
       500 level courses taken (half graduate course at McGill University)
@@ -74,7 +75,9 @@ education:
     date_end: 2023-08-20
     summary: |
       CGPA: 3.99/4.33
+
       Dean's Honour List
+
       Top Student in science faculty (YP Heung Foundation Scholarship $5000 CAD)
 
       
@@ -161,27 +164,27 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python.svg
+        icon: python
       - name: C++
         description: ''
         percent: 80
-        icon: cpp.svg
+        icon: cpp
       - name: Java
         description: ''
         percent: 90
-        icon: java.svg
+        icon: java
       - name: SQL
         description: ''
         percent: 90
-        icon: sql.svg
+        icon: sql
       - name: Pytorch
         description: ''
         percent: 90
-        icon: pytorch.svg
+        icon: pytorch
       - name: R
         description: ''
         percent: 70
-        icon: r.svg
+        icon: r
 
   - name: Hobbies
     color: '#eeac02'
