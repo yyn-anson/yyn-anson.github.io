@@ -113,7 +113,9 @@ work:
     summary: |2-
       Goal: Detecting misinformation/bias on social media outlets in unsupervised learning and using social network analysis to quantify the impact of bias to the political stance of public
 
-      Responsibilities include:
+      It is an independent research contribution under guidance by professor
+
+      Key Responsibilities include:
       - Quantify political leaning of articles by article embedding method
       - Prompt Engineering on multi-agent simulation of bias rating
       - Social Network Analysis on impact of bias to the users in social media
