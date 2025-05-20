@@ -62,6 +62,22 @@ education:
       CGPA: 3.96/4.0
       Dean's Honour List
 
+      500 level courses taken (half graduate course at McGill University)
+      - COMP 551 Machine Learning
+      - COMP 557 Computer Graphics
+      - COMP 558 Computer Vision
+      - COMP 579 Reinforcement Learning
+  
+  - area: Associate Degree in Computer Science
+    institution: Langara College
+    date_start: 2022-04-04
+    date_end: 2023-08-20
+    summary: |
+      CGPA: 3.99/4.33
+      Dean's Honour List
+      Top Student in science faculty (YP Heung Foundation Scholarship $5000 CAD)
+
+
 
       
     # button:
@@ -90,17 +106,41 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Researcher
+    company_name: McGill University
+    company_url: 'https://dmas.lab.mcgill.ca'
+    company_logo: 'assets/media/DMAS_logo.jpg'
+    date_start: 2024-11-30
+    date_end: 2025-09-01
+    summary: |2-
+      Goal: Detecting misinformation/bias on social media outlets in unsupervised learning and using social network analysis to quantify the impact of bias to the political stance of public
+
+      Responsibilities include:
+      - Quantify political leaning of articles by article embedding method
+      - Prompt Engineering on multi-agent simulation of bias rating
+      - Social Network Analysis on impact of bias to the users in social media
+      
+      Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
+
+    See Project: <a href="/project/honour-research/">Honour Research Project</a>
+
   - position: Research Assistant
     company_name: Simon Fraser University
     company_url: 'https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_(NMSL)'
-    company_logo: ''
+    company_logo: 'assets/media/NMSL_logo.png'
     date_start: 2024-05-06
-    date_end: 2024-09-05
+    date_end: 2024-12-31
     summary: |2-
       Responsibilities include:
-      - Theory contribution on choosing best wavelength for glucose prediction
-      - Model design and evaluation metric theoretical explanation
-      - Full implementation on prediction model and Raspberry Pi camera
+      - Theoretical analysis on best wavelengths on glucose prediction, using SHAP values for model interpretation
+      - Building regression models to predict glucose values
+      - Conducting data collection using various cameras such as Raspberry Pi and ToF depth cameras
+      - Assist and provide reasoning in other parts of the project
+
+      Supervised by Professor Mohamed Hefeeda
+
+      See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+      
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
@@ -121,27 +161,27 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python.svg
+        icon: assets/media/icons/python.svg
       - name: C++
         description: ''
         percent: 80
-        icon: cpp.svg
+        icon: assets/media/icons/cpp.svg
       - name: Java
         description: ''
         percent: 90
-        icon: java.svg
+        icon: assets/media/icons/java.svg
       - name: SQL
         description: ''
         percent: 90
-        icon: sql.svg
+        icon: assets/media/icons/sql.svg
       - name: Pytorch
         description: ''
         percent: 90
-        icon: pytorch.svg
+        icon: assets/media/icons/pytorch.svg
       - name: R
         description: ''
         percent: 70
-        icon: r.svg
+        icon: assets/media/icons/r.svg
 
   - name: Hobbies
     color: '#eeac02'
@@ -177,14 +217,14 @@ awards:
     awarder: NSERC
     # icon: coursera
     summary: |
-      Awards of $10000 cad. An summer research internship at Simon Fraser Unversity. Build a non-invasive method of detecting glucose concentration using mobile device.
+      Awards of $10000 + $1500 cad. An summer research internship at Simon Fraser Unversity. Build a non-invasive method of detecting glucose concentration using mobile device.
   - title: YP Heung Post-Secondary Award
     url: https://www.yphfoundation.org/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-17'
     awarder: YP Heung Foundation
     # icon: edx
     summary: |
-      $5000 cad scholarship for being one of the best science student at Langara College
+      $5000 cad scholarship for being one of the best 6 science student at Langara College
 
 ---
 
