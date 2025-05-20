@@ -14,6 +14,10 @@ type: "project"
 
 The Quick Draw project is a collaborative initiative developed during the MAIS202 Bootcamp. The project focuses on implementing a machine learning model capable of predicting animal labels based on user-uploaded images. Leveraging the Google Quick Draw dataset, the application accurately classifies images into 10 distinct animal categories.
 
+## Demo
+
+Experience a demonstration of the project by watching the [video on OneDrive](https://1drv.ms/v/s!AsTeUm8lFBiJqScgxRfDuTDqHkml?e=1Gcclh). 
+
 ## Key Features
 
 - **Real-Time Prediction**: Upload an image and receive immediate, accurate predictions of the animal depicted.
@@ -30,7 +34,3 @@ The Quick Draw project is a collaborative initiative developed during the MAIS20
 
 - **Machine Learning**: Contributed 50% towards model development, ensuring robust performance and accuracy.
 - **Web Application**: Took full responsibility for designing and implementing the web app, from UI/UX design to backend integration.
-
-## Demo
-
-Experience a demonstration of the project by watching the [video on OneDrive](https://1drv.ms/v/s!AsTeUm8lFBiJqScgxRfDuTDqHkml?e=1Gcclh). 

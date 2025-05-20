@@ -13,6 +13,11 @@ tags: [computer vision, research, imaging]
 
 The Medial Axis Transform project is a final project for COMP 558 (Computer Vision) at McGill University. The main goal is to replicate and build upon the findings of the paper "Shape-Based Measures Improve Scene Categorization" by exploring additional geometric properties in images.
 
+## Full Report and source code
+
+For a comprehensive project overview, please [Project Report](https://github.com/yyn-anson/COMP558Project/blob/main/final_report.pdf).
+Source code would be available at [GitHub Repository](https://github.com/yyn-anson/COMP558Project).
+
 ## Objectives
 
 - **Replication**: Recreate the experiments from the referenced paper to establish a baseline.
@@ -28,18 +33,3 @@ The Medial Axis Transform project is a final project for COMP 558 (Computer Visi
 ## Outcomes
 
 This project aims to bridge theoretical insights and practical implementation, ultimately contributing to the field of computer vision by offering improved methods for scene categorization.
-
-## Repository
-
-For a detailed look at the project, check out the [GitHub Repository](https://github.com/yyn-anson/COMP558Project).
-
-## Download PDF
-
-For a comprehensive project overview, please [download the project PDF](https://github.com/yyn-anson/COMP558Project/blob/main/final_report.pdf).
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Pipeline of the project from the original paper (Scene Categorization with Shape-Based Measures)'
-  focal_point: ''
-  preview_only: false

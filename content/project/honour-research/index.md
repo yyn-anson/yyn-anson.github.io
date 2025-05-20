@@ -7,7 +7,7 @@ date: 2024-11-30
 tags: [Misinformation, "Social Network Analysis", "Machine Learning", "Unsupervised", "Bias Detection"]
 ---
 
-# Honour Research Project: Bias Detection through Unsupervised Learning
+# Bias Detection through Unsupervised Learning
 
 *30 Nov 2024 – Current*
 
