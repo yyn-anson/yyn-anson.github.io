@@ -117,16 +117,29 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
       - name: C++
         description: ''
         percent: 80
-        icon: c++
-      # - name: SQL
-      #   description: ''
-      #   percent: 40
-      #   icon: circle-stack
+        icon: cpp
+      - name: Java
+        description: ''
+        percent: 90
+        icon: java
+      - name: SQL
+        description: ''
+        percent: 90
+        icon: sql
+      - name: Pytorch
+        description: ''
+        percent: 90
+        icon: pytorch
+      - name: R
+        description: ''
+        percent: 70
+        icon: r
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

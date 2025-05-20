@@ -1,7 +1,7 @@
 ---
 title: "Honour Research Project: Bias Detection through Unsupervised Learning"
 description: "An innovative research project developing an unsupervised pipeline for quantifying misinformation and bias on social media through embedding and multi-agent analysis."
-date: 2024-11-30
+date: 2025-05-01
 # featured_image: "https://via.placeholder.com/800x600"
 # external_link: https://github.com/pandas-dev/pandas
 tags: [Misinformation, "Social Network Analysis", "Machine Learning", "Unsupervised", "Bias Detection"]
