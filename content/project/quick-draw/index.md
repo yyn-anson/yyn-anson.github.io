@@ -2,7 +2,6 @@
 title: "Quick Draw: Interactive Animal Recognition Web App"
 date: 2023-10-01
 description: "A collaborative machine learning project leveraging the Quick Draw dataset to create an interactive web application for animal recognition with high accuracy."
-featured_image: "https://via.placeholder.com/800x600"
 tags: ["machine learning", "web development", "quick draw"]
 type: "project"
 ---
@@ -23,7 +22,7 @@ The Quick Draw project is a collaborative initiative developed during the MAIS20
 
 ## Technical Approach
 
-- **Model Development**: Utilized state-of-the-art classification techniques, training on the Quick Draw dataset to optimize performance.
+- **Model Development**: Utilized CNN architecture, training on the Quick Draw dataset to optimize performance.
 - **Web Integration**: Engineered a responsive and user-friendly web interface that seamlessly integrates with the machine learning model for real-time predictions.
 - **Optimization**: Fine-tuned both the model and web application to ensure efficient and smooth operation under live conditions.
 

@@ -2,7 +2,6 @@
 title: "Medial Axis Transform: Geometric Cues in Scene Categorization"
 date: 2024-11-01
 description: "A comprehensive course final project for COMP 558 at McGill University that replicates and extends research on scene categorization through geometric cues."
-featured_image: "https://via.placeholder.com/800x600"
 tags: [computer vision, research, imaging]
 ---
 
@@ -32,4 +31,15 @@ This project aims to bridge theoretical insights and practical implementation, u
 
 ## Repository
 
-For a detailed look at the project, check out the [GitHub Repository](https://github.com/yyn-anson/COMP558Project). 
+For a detailed look at the project, check out the [GitHub Repository](https://github.com/yyn-anson/COMP558Project).
+
+## Download PDF
+
+For a comprehensive project overview, please [download the project PDF](https://github.com/yyn-anson/COMP558Project/blob/main/final_report.pdf).
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Pipeline of the project from the original paper (Scene Categorization with Shape-Based Measures)'
+  focal_point: ''
+  preview_only: false
