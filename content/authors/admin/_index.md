@@ -107,7 +107,7 @@ work:
   - position: Researcher
     company_name: McGill University
     company_url: 'https://dmas.lab.mcgill.ca'
-    company_logo: '../assets/media/DMAS_logo.jpg'
+    company_logo: '/assets/media/DMAS_logo.jpg'
     date_start: 2024-11-30
     date_end: 2025-09-01
     summary: |2-
@@ -126,8 +126,8 @@ work:
 
   - position: Research Assistant
     company_name: Simon Fraser University
-    company_url: 'https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_(NMSL)'
-    company_logo: '../assets/media/NMSL_logo.png'
+    company_url: 'https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_%28NMSL%29'
+    company_logo: '/assets/media/NMSL_logo.png'
     date_start: 2024-05-06
     date_end: 2024-12-31
     summary: |2-
@@ -139,7 +139,7 @@ work:
 
       Supervised by Professor Mohamed Hefeeda
 
-      See Publication: <a href="/publication/glucosense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+      See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
       
   # - position: Backend Software Engineer
   #   company_name: X
@@ -161,27 +161,27 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: assets/media/icons/python.svg
+        icon: 'media/icons/python.svg'
       - name: C++
         description: ''
         percent: 80
-        icon: assets/media/icons/cpp.svg
+        icon: 'media/icons/cpp.svg'
       - name: Java
         description: ''
         percent: 90
-        icon: assets/media/icons/java.svg
+        icon: 'media/icons/java.svg'
       - name: SQL
         description: ''
         percent: 90
-        icon: assets/media/icons/sql.svg
+        icon: 'media/icons/sql.svg'
       - name: Pytorch
         description: ''
         percent: 90
-        icon: assets/media/icons/pytorch.svg
+        icon: 'media/icons/pytorch.svg'
       - name: R
         description: ''
         percent: 70
-        icon: assets/media/icons/r.svg
+        icon: 'media/icons/r.svg'
 
   - name: Hobbies
     color: '#eeac02'
