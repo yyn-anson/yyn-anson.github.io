@@ -109,7 +109,7 @@ work:
   - position: Researcher
     company_name: McGill University
     company_url: 'https://dmas.lab.mcgill.ca'
-    company_logo: 'assets/media/DMAS_logo.jpg'
+    company_logo: '/assets/media/DMAS_logo.jpg'
     date_start: 2024-11-30
     date_end: 2025-09-01
     summary: |2-
@@ -122,12 +122,12 @@ work:
       
       Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
 
-    See Project: <a href="../../project/honour-research/">Honour Research Project</a>
+    See Project: <a href="/project/honour-research/">Honour Research Project</a>
 
   - position: Research Assistant
     company_name: Simon Fraser University
     company_url: 'https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_(NMSL)'
-    company_logo: 'assets/media/NMSL_logo.png'
+    company_logo: '/assets/media/NMSL_logo.png'
     date_start: 2024-05-06
     date_end: 2024-12-31
     summary: |2-
@@ -139,7 +139,7 @@ work:
 
       Supervised by Professor Mohamed Hefeeda
 
-      See Publication: <a href="../../publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+      See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
       
   # - position: Backend Software Engineer
   #   company_name: X
