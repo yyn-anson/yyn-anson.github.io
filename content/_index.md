@@ -54,23 +54,23 @@ sections:
         **👏 Acknowledgments**  
         I would like to express my heartfelt gratitude to my supervisors and mentors for their invaluable guidance and support.
 
-        **Supervisors**
-        - [Mohamed Hefeeda](https://www.cs.sfu.ca/~mhefeeda/)
-        - [Benjamin C. M. Fung](https://dmas.lab.mcgill.ca/fung/)
-        - [Elena Obukhova](http://www.elenaobukhova.com)
+        **Supervisors**  
+         - <a href="https://www.cs.sfu.ca/~mhefeeda/">Mohamed Hefeeda</a>  
+         - <a href="https://dmas.lab.mcgill.ca/fung/">Benjamin C. M. Fung</a>  
+         - <a href="http://www.elenaobukhova.com">Elena Obukhova</a>  
 
-        **Mentors**
-        - [Zicong Fan (Alex)](https://zc-alexfan.github.io)
-        - Gladys Monagan
-        - [Tharshanna Nadarajah](https://www.mcgill.ca/mathstat/tharshanna-nadarajah)
-        - [Yvonne Leung](https://www.linkedin.com/in/yvonne-leung-cfa-6305781a/?originalSubdomain=hk)
+        **Mentors**  
+         - <a href="https://zc-alexfan.github.io">Zicong Fan (Alex)</a>  
+         - <a href="/authors/gladys-monagan/">Gladys Monagan</a>  
+         - <a href="https://www.mcgill.ca/mathstat/tharshanna-nadarajah">Tharshanna Nadarajah</a>  
+         - <a href="https://www.linkedin.com/in/yvonne-leung-cfa-6305781a/?originalSubdomain=hk">Yvonne Leung</a>  
 
         Their encouragement has been instrumental to my journey and growth.
 
         **🔗 Explore More**  
         Dive deeper into my work:
-        - [📄 Featured Publications](#papers)  
-        - [🚀 Projects](/projects/)
+        - 📄 <a href="#papers">Featured Publications</a>  
+        - 🚀 <a href="/projects/">Projects</a>
     design:
       columns: '1'
   - block: collection
