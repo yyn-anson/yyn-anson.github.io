@@ -48,7 +48,9 @@ profiles:
 
 interests:
   - Computational Social Science
+  - Social Network Analysis
   - Data mining
+  - Text mining
   - Computer Vision
 
 education:
@@ -58,6 +60,7 @@ education:
     date_end: 2026-06-01
     summary: |
       CGPA: 3.96/4.0
+      Dean's Honour List
 
 
       
@@ -187,4 +190,4 @@ awards:
 
 ## About Me
 
-Yik Yu Ng is year 3 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.
+I am a year 3 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.

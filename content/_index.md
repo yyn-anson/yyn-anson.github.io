@@ -35,11 +35,42 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a self-motivated BSc. student studying computer science at McGill University. 
-        
-        My target field is computer vision, machine learning. 
-        
-        Please reach out to collaborate 😃
+        **👨‍🎓 About Me**  
+        I am a self-driven **BSc in Computer Science** student at **McGill University**, specializing in **Data Mining** & **Computational Social Science**.
+
+        **🔍 Research Interest**  
+        - **Bias & Misinformation Detection**: Quantifying and tracing misinformation dynamics online.  
+        - **Stance Detection**: Determining agreement/disagreement viewpoints in articles.  
+        - **Social Event Simulation**: Modeling user profiles & interactions.  
+        - **Bot Detection**: Identifying automated social media accounts.  
+        - **Recommendation Systems**: Investigating filter bubbles and personalization effects.
+
+        Some specific research questions that interest to me:
+          - Can we give evidence of bias/misinformation in the internet?
+          - What is the impact of misinformation to the public? How to quantify that?
+          - Where are the sources of the misinformation? Can we track them?
+          - Articles stance detection, does this article agree/disagree on some viewpoint?
+
+        **👏 Acknowledgments**  
+        I would like to express my heartfelt gratitude to my supervisors and mentors for their invaluable guidance and support
+
+        Supervisors:
+        - [Mohamed Hefeeda](https://www.cs.sfu.ca/~mhefeeda/)  
+        - [Benjamin C. M. Fung](https://dmas.lab.mcgill.ca/fung/)  
+        - [Elena Obukhova](http://www.elenaobukhova.com)  
+
+        Mentors:
+        - [Zicong Fan (Alex)](https://zc-alexfan.github.io)  
+        - *Gladys Monagan*  
+        - [Tharshanna Nadarajah](https://www.mcgill.ca/mathstat/tharshanna-nadarajah)  
+        - [Yvonne Leung](https://www.linkedin.com/in/yvonne-leung-cfa-6305781a/?originalSubdomain=hk)
+
+        Their encouragement has been instrumental to my journey and growth.
+
+        **🔗 Explore More**  
+        Dive deeper into my work:
+        - [📄 Featured Publications](#papers)  
+        - [🚀 Projects](/projects/)
     design:
       columns: '1'
   - block: collection
