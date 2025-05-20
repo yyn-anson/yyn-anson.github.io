@@ -118,27 +118,27 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python
+        icon: python.svg
       - name: C++
         description: ''
         percent: 80
-        icon: cpp
+        icon: cpp.svg
       - name: Java
         description: ''
         percent: 90
-        icon: java
+        icon: java.svg
       - name: SQL
         description: ''
         percent: 90
-        icon: sql
+        icon: sql.svg
       - name: Pytorch
         description: ''
         percent: 90
-        icon: pytorch
+        icon: pytorch.svg
       - name: R
         description: ''
         percent: 70
-        icon: r
+        icon: r.svg
 
   - name: Hobbies
     color: '#eeac02'
