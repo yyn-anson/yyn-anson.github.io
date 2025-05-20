@@ -77,8 +77,6 @@ education:
       Dean's Honour List
       Top Student in science faculty (YP Heung Foundation Scholarship $5000 CAD)
 
-
-
       
     # button:
     #   text: 'Read Transcript'
@@ -122,7 +120,7 @@ work:
       
       Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
 
-    See Project: <a href="/project/honour-research/">Honour Research Project</a>
+      See Project: <a href="/project/honour-research/">Honour Research Project</a>
 
   - position: Research Assistant
     company_name: Simon Fraser University
