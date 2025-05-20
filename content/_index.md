@@ -52,17 +52,17 @@ sections:
           - Articles stance detection, does this article agree/disagree on some viewpoint?
 
         **👏 Acknowledgments**  
-        I would like to express my heartfelt gratitude to my supervisors and mentors for their invaluable guidance and support
+        I would like to express my heartfelt gratitude to my supervisors and mentors for their invaluable guidance and support.
 
-        Supervisors:
-        - [Mohamed Hefeeda](https://www.cs.sfu.ca/~mhefeeda/)  
-        - [Benjamin C. M. Fung](https://dmas.lab.mcgill.ca/fung/)  
-        - [Elena Obukhova](http://www.elenaobukhova.com)  
+        **Supervisors**
+        - [Mohamed Hefeeda](https://www.cs.sfu.ca/~mhefeeda/)
+        - [Benjamin C. M. Fung](https://dmas.lab.mcgill.ca/fung/)
+        - [Elena Obukhova](http://www.elenaobukhova.com)
 
-        Mentors:
-        - [Zicong Fan (Alex)](https://zc-alexfan.github.io)  
-        - *Gladys Monagan*  
-        - [Tharshanna Nadarajah](https://www.mcgill.ca/mathstat/tharshanna-nadarajah)  
+        **Mentors**
+        - [Zicong Fan (Alex)](https://zc-alexfan.github.io)
+        - Gladys Monagan
+        - [Tharshanna Nadarajah](https://www.mcgill.ca/mathstat/tharshanna-nadarajah)
         - [Yvonne Leung](https://www.linkedin.com/in/yvonne-leung-cfa-6305781a/?originalSubdomain=hk)
 
         Their encouragement has been instrumental to my journey and growth.

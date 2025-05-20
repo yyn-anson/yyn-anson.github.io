@@ -15,7 +15,7 @@ tags: [Misinformation, "Social Network Analysis", "Machine Learning", "Unsupervi
 
 This innovative research project addresses a critical challenge in today's digital information ecosystem: detecting and quantifying political bias in news articles and social media content without requiring labeled training data. The framework introduces a novel fully unsupervised pipeline that combines geometric embedding-based techniques with a multi-agent evaluation system to provide a comprehensive, nuanced assessment of media bias across two dimensions - political leaning and rhetorical bias intensity.
 
-Note: This work is still in progress, we hope to push it to a formal conference paper. Proposal can be found here [Research Proposal](./COMP400_Project_Form.pdf)
+Note: This work is still in progress, we hope to push it to a formal conference paper. Proposal can be found here [Research Proposal](./COMP400_Bias_Rating.pdf)
 
 ## Problem Statement
 
