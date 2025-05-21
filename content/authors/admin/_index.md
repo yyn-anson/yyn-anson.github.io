@@ -164,27 +164,27 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: "custom/python.svg"
+        icon: python
       - name: C++
         description: ''
         percent: 80
-        icon: cplusplus
+        icon: devicon/cplusplus
       - name: Java
         description: ''
         percent: 90
-        icon: java
+        icon: devicon/java
       - name: SQL
         description: ''
         percent: 90
-        icon: azuresqldatabase
+        icon: devicon/azuresqldatabase
       - name: html5
         description: ''
         percent: 90
-        icon: html5
+        icon: devicon/html5
       - name: Pytorch
         description: ''
         percent: 90
-        icon: pytorch
+        icon: devicon/pytorch
       - name: R
         description: ''
         percent: 70
@@ -192,15 +192,15 @@ skills:
       - name: OpenCV
         description: ''
         percent: 70
-        icon: opencv
+        icon: devicon/opencv
       - name: OpenGL
         description: ''
         percent: 70
-        icon: opengl
+        icon: devicon/opengl
       - name: NetworkX
         description: ''
         percent: 70
-        icon: networkx
+        icon: devicon/networkx
 
   - name: Hobbies
     color: '#eeac02'
