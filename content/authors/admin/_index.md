@@ -201,6 +201,14 @@ skills:
         description: ''
         percent: 70
         icon: devicon/networkx
+      - name: Matlab
+        description: ''
+        percent: 70
+        icon: devicon/matlab
+      - name: Linux
+        description: ''
+        percent: 70
+        icon: devicon/linux
 
   - name: Hobbies
     color: '#eeac02'

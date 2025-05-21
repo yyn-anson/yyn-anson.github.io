@@ -16,7 +16,16 @@ The Quick Draw project is a collaborative initiative developed during the MAIS20
 
 ## Demo
 
-Experience a demonstration of the project by watching the [video on OneDrive](https://1drv.ms/v/s!AsTeUm8lFBiJqScgxRfDuTDqHkml?e=1Gcclh). 
+Experience a demonstration of the project by watching the [video on OneDrive]
+(https://1drv.ms/v/s!AsTeUm8lFBiJqScgxRfDuTDqHkml?e=1Gcclh). 
+
+<iframe
+  src="https://onedrive.live.com/embed?resid=s!AsTeUm8lFBiJqScgxRfDuTDqHkml&authkey=1Gcclh"
+  width="640"
+  height="480"
+  frameborder="0"
+  allowfullscreen
+></iframe>
 
 ## Key Features
 
