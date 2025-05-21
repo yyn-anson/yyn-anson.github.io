@@ -18,6 +18,17 @@ The Medial Axis Transform project is a final project for COMP 558 (Computer Visi
 For a comprehensive project overview, please [Project Report](https://github.com/yyn-anson/COMP558Project/blob/main/final_report.pdf).
 Source code would be available at [GitHub Repository](https://github.com/yyn-anson/COMP558Project).
 
+## Project Presentation
+
+<iframe 
+    src="https://1drv.ms/v/c/891814256f52dec4/IQQCOq46xEw9TLVKlc3aGLXgAV2-1ni4hzt2EtV_htxriDE" 
+    width="640" 
+    height="360" 
+    frameborder="0" 
+    scrolling="no" 
+    allowfullscreen>
+</iframe>
+
 ## Objectives
 
 - **Replication**: Recreate the experiments from the referenced paper to establish a baseline.
