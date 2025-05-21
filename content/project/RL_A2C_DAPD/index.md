@@ -21,8 +21,8 @@ Access the full details about the project and result on the [Project Report](fin
 
 <iframe 
     src="https://1drv.ms/v/c/891814256f52dec4/IQR9BlTeSsQdQ7ZWnndV-xzfATA8fk1T9Z-vk3O7rcD_LRk" 
-    width="1440" 
-    height="1080" 
+    width="720" 
+    height="540" 
     frameborder="0" 
     scrolling="no" 
     allowfullscreen>
