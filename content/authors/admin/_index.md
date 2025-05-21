@@ -168,23 +168,39 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: "custom/cpp.svg"
+        icon: cplusplus
       - name: Java
         description: ''
         percent: 90
-        icon: "custom/java.svg"
+        icon: java
       - name: SQL
         description: ''
         percent: 90
-        icon: "custom/sql.svg"
+        icon: azuresqldatabase
+      - name: html5
+        description: ''
+        percent: 90
+        icon: html5
       - name: Pytorch
         description: ''
         percent: 90
-        icon: "custom/pytorch.svg"
+        icon: pytorch
       - name: R
         description: ''
         percent: 70
         icon: "custom/r.svg"
+      - name: OpenCV
+        description: ''
+        percent: 70
+        icon: opencv
+      - name: OpenGL
+        description: ''
+        percent: 70
+        icon: opengl
+      - name: NetworkX
+        description: ''
+        percent: 70
+        icon: networkx
 
   - name: Hobbies
     color: '#eeac02'
