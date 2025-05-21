@@ -217,7 +217,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 70
-        icon: Badminton
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
@@ -225,7 +225,7 @@ skills:
       - name: Guitar and Drums
         description: ''
         percent: 80
-        icon: Guitar
+        icon: hero/musical-note
 
 languages:
   - name: English
