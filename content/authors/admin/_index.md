@@ -59,7 +59,7 @@ education:
     date_start: 2023-08-28
     date_end: 2026-06-01
     summary: |
-      CGPA: 3.96/4.0
+      CGPA: 3.96/4.00
 
       Dean's Honour List
 
