@@ -164,11 +164,11 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python
+        icon: "python.svg"
       - name: C++
         description: ''
         percent: 80
-        icon: cpp
+        icon: "cpp.svg"
       - name: Java
         description: ''
         percent: 90
