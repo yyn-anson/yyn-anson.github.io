@@ -18,8 +18,8 @@ The Quick Draw project is a collaborative initiative developed during the MAIS20
 
 <iframe 
     src="https://1drv.ms/v/c/891814256f52dec4/IQTE3lJvJRQYIICJpxQAAAAAAR4Qr2RjQvGbjIFmN2lFUBo" 
-    width="1280" 
-    height="720" 
+    width="640" 
+    height="360" 
     frameborder="0" 
     scrolling="no" 
     allowfullscreen>
