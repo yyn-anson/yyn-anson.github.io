@@ -22,7 +22,7 @@ sections:
       title: 'Guitar Fingerstyle 🎸'
       filters:
         folders:
-          - guitar-fingerstyle
+          - hobbies/guitar-fingerstyle
     design:
       view: article-grid
       fill_image: false
@@ -32,7 +32,7 @@ sections:
       title: 'Band 🎤'
       filters:
         folders:
-          - band
+          - hobbies/band
     design:
       view: article-grid
       fill_image: false
