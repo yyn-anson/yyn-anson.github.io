@@ -1,7 +1,7 @@
 ---
 title: "我的爱没前奏"
 summary: "Guitar Fingerstyle: 我的爱没前奏"
-date: 2025-02-14
+date: 2025-02-26
 authors:
   - admin
 tags:
