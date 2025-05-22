@@ -16,8 +16,8 @@ tags:
 
 <iframe 
   src="https://1drv.ms/v/c/891814256f52dec4/IQS7kpfuk_M3Q6o4J8uW4hbMAXxMkK-iDxdSz0mdPv10nYg" 
-  width="1920" 
-  height="1080" 
+  width="960" 
+  height="540" 
   frameborder="0" 
   scrolling="no" 
   allowfullscreen>

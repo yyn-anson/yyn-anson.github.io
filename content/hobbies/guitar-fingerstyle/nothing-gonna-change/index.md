@@ -16,8 +16,8 @@ The proper song on Valentine's day! I hope you enjoy the video! 🎸🎶
 
 <iframe 
   src="https://1drv.ms/v/c/891814256f52dec4/IQR2V-TpMVzqSJJvXBZWu8l4Adr4RyLZIsl-Ya-N_nQSXmY" 
-  width="1920" 
-  height="1080" 
+  width="960" 
+  height="650" 
   frameborder="0" 
   scrolling="no" 
   allowfullscreen>
