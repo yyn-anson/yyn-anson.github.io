@@ -22,9 +22,9 @@ sections:
       title: 'Guitar Fingerstyle 🎸'
       filters:
         folders:
-          - hobbies/guitar-fingerstyle
+          - guitar-fingerstyle
     design:
-      view: card
+      view: article-grid
       fill_image: false
       columns: 1
   - block: collection
@@ -32,9 +32,9 @@ sections:
       title: 'Band 🎤'
       filters:
         folders:
-          - hobbies/band
+          - band
     design:
-      view: card
+      view: article-grid
       fill_image: false
       columns: 1
 --- 
