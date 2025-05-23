@@ -5,6 +5,7 @@ date: 2025-02-26
 authors:
   - admin
 tags:
+  - 我的爱没前奏
   - Hobby
   - Guitar
   - Fingerstyle

@@ -5,6 +5,7 @@ date: 2023-08-23
 authors:
   - admin
 tags:
+  - City Of Stars
   - Hobby
   - Guitar
   - Fingerstyle

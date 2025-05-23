@@ -21,8 +21,7 @@ sections:
     content:
       title: 'Guitar Fingerstyle 🎸'
       filters:
-        folders:
-          - guitar-fingerstyle
+        tag: 'Guitar'
     design:
       view: article-grid
       fill_image: false
@@ -31,8 +30,7 @@ sections:
     content:
       title: 'Band 🎤'
       filters:
-        folders:
-          - band
+        tag: 'Band'
     design:
       view: article-grid
       fill_image: false

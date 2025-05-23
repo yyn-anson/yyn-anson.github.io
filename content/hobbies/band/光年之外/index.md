@@ -5,6 +5,7 @@ date: 2025-04-06
 authors:
   - admin
 tags:
+  - 光年之外
   - Hobby
   - Band
   - Montreal
