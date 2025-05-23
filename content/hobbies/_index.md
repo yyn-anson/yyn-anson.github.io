@@ -24,7 +24,7 @@ sections:
         folders:
           - hobbies/guitar-fingerstyle
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 1
   - block: collection
@@ -34,7 +34,7 @@ sections:
         folders:
           - hobbies/band
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 1
 --- 
