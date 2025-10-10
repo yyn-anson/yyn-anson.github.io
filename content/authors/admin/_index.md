@@ -123,7 +123,7 @@ work:
 
       Supervised by Professor Laks Lakshmanan, Xiaokui XIAO, Lena Palaniyappan
 
-      # See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+      
 
 
   - position: Researcher
