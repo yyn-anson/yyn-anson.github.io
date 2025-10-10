@@ -18,7 +18,7 @@ date: '2025-10-07T00:00:00Z'
 # doi: 'https://doi.org/10.1145/3680207.3723472'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-04-13T00:00:00Z'
+publishDate: '2025-10-07T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
