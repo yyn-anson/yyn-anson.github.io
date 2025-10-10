@@ -65,6 +65,7 @@ summary:
 
 tags:
 # - Large Language Models
+- Mobile Sensing
 - Blood Glucose
 - Mobile Health
 - Hyperspectral Imaging

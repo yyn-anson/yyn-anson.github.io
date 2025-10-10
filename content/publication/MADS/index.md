@@ -36,10 +36,10 @@ abstract: |2-
 summary: 
 
 tags:
+- Political Bias Detection
 - Large Language Models
 - Model Ensemble
 - Unsupervised Learning
-- Political Bias Detection
 
 # Display this page in the Featured widget?
 featured: true
