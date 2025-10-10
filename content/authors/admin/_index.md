@@ -107,25 +107,44 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Research Assistant
+    company_name: University of British Columbia
+    company_url: 'https://www.cs.ubc.ca/labs/db/home.php'
+    # company_logo: '/assets/media/NMSL_logo.png'
+    date_start: 2025-06-01
+    date_end: 2025-10-10
+    summary: |2-
+      There are two projects involved during this internship
+
+      1. Resource allocation algorithm
+      2. Graph based method on psychotic patient classification
+
+      The projects are still in progress
+
+      Supervised by Professor Laks Lakshmanan, Xiaokui XIAO, Lena Palaniyappan
+
+      # See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
+
+
   - position: Researcher
     company_name: McGill University
     company_url: 'https://dmas.lab.mcgill.ca'
     company_logo: '/assets/media/DMAS_logo.jpg'
-    date_start: 2024-11-30
-    date_end: 2025-09-01
+    date_start: 2025-01-01
+    date_end: 2025-10-07
     summary: |2-
-      Goal: Detecting misinformation/bias on social media outlets in unsupervised learning and using social network analysis to quantify the impact of bias to the political stance of public
+      Goal: Detecting misinformation/bias on media outlets in unsupervised learning via LLM ensemble
 
       It is an **independent research contribution** under guidance by professor
 
       Key Responsibilities include:
-      - Quantify political leaning of articles by article embedding method
-      - Prompt Engineering on multi-agent simulation of bias rating
-      - Social Network Analysis on impact of bias to the users in social media
+      - Introducing MADS, an unsupervised multi-agent debate framework for political bias detection that achieves state-of-the-art performance without training data, outperforming traditional supervised baselines including LSTM and BERT models while requiring no labeled examples for training.
+      - MADS provides interpretable bias detection through evidence-based argumentation, where each classification is accompanied by transparent reasoning chains that reveal the textual features, framework choices, and omissions the models identify as indicators of political bias, enabling users to understand and verify the basis of each classification.
+      - Constructing a comprehensive evaluation benchmark including a custom dataset of 473,989 news articles collected from major media outlets during the six months preceding the 2024 U.S. presidential election (May–November 2024), providing a timely resource for studying media bias during a critical period of democratic discourse.
       
       Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
 
-      See Project: <a href="/project/honour-research/">Honour Research Project</a>
+      See Publication: <a href="/publication/MADS/">MADS: Ensemble LLM-based Multi-Agent Debate System for Political Bias Detection</a>
 
   - position: Research Assistant
     company_name: Simon Fraser University
