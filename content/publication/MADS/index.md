@@ -1,5 +1,5 @@
 ---
-title: 'GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices'
+title: 'MADS: Ensemble LLM-based Multi-Agent Debate System for Political Bias Detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
