@@ -44,6 +44,8 @@ sections:
         - **Social Event Simulation**: Modeling user profiles & interactions.  
         - **Bot Detection**: Identifying automated social media accounts.  
         - **Recommendation Systems**: Investigating filter bubbles and personalization effects.
+        - **Medical Image Analysis**: Provide reliable, explainable machine learning method on medical area
+        - **3D Vision**: 3D reconstruction, classification and tracking
 
         Some specific research questions that interest to me:
           - Can we give evidence of bias/misinformation in the internet?
@@ -58,6 +60,7 @@ sections:
          - <a href="https://www.cs.sfu.ca/~mhefeeda/">Mohamed Hefeeda</a>  
          - <a href="https://dmas.lab.mcgill.ca/fung/">Benjamin C. M. Fung</a>  
          - <a href="http://www.elenaobukhova.com">Elena Obukhova</a>  
+         - <a href="https://www.cs.ubc.ca/~laks/">Laks V.S. Lakshmanan</a>  
 
         **Mentors**  
          - <a href="https://zc-alexfan.github.io">Zicong Fan (Alex)</a>  
