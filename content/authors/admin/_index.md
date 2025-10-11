@@ -276,4 +276,4 @@ awards:
 
 ## About Me
 
-I am a year 3 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.
+I am a year 4 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.
