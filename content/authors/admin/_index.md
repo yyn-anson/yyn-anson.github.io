@@ -1,74 +1,53 @@
 ---
-# Display name
 title: Yik Yu (Anson) Ng
-
-# # Name pronunciation (optional)
-# name_pronunciation: An Son
-
-# Full name (for SEO)
 first_name: Yik Yu (Anson)
 last_name: Ng
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Undergrad
+role: Incoming M.S. Student in Computer Science
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: McGill University
-    url: https://www.mcgill.ca/
+  - name: Stanford University
+    url: https://www.stanford.edu/
+  - name: Mila - Quebec AI Institute
+    url: https://mila.quebec/en
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'yik.ng@mail.mcgill.ca'
-    label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+    url: mailto:yikyung@stanford.edu
+    label: Email
   - icon: brands/github
     url: https://github.com/yyn-anson
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yik-yu-ng-7847b62a7/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
 
 interests:
+  - Multimodal Machine Learning
+  - Medical Imaging
+  - Trustworthy and Interpretable AI
+  - Large Language Models
+  - Fairness in Machine Learning
   - Computational Social Science
-  - Social Network Analysis
-  - Data mining
-  - Text mining
-  - Computer Vision
 
 education:
-  - area: Honour BSc. in Computer Science
+  - area: M.S. in Computer Science
+    institution: Stanford University
+    date_start: 2026-09-01
+    summary: |
+      Incoming student, starting Fall 2026.
+
+  - area: B.Sc., First Class Honours in Computer Science
     institution: McGill University
     date_start: 2023-08-28
-    date_end: 2026-06-01
+    date_end: 2026-05-29
     summary: |
       CGPA: 3.96/4.00
 
       Dean's Honour List
 
-      500 level courses taken (half graduate course at McGill University)
-      - COMP 551 Machine Learning
-      - COMP 557 Computer Graphics
-      - COMP 558 Computer Vision
-      - COMP 579 Reinforcement Learning
-  
+      Selected upper-level coursework: Machine Learning, Computer Graphics, Computer Vision, and Reinforcement Learning.
+
   - area: Associate Degree in Computer Science
     institution: Langara College
     date_start: 2022-04-04
@@ -76,175 +55,106 @@ education:
     summary: |
       CGPA: 3.99/4.33
 
-      Dean's Honour List
+      Dean's Honour List; YP Heung Foundation Post-Secondary Award.
 
-      Top Student in science faculty (YP Heung Foundation Scholarship $5000 CAD)
-
-      
-    # button:
-    #   text: 'Read Transcript'
-    #   url: 'https://drive.google.com/file/d/16aGfXbzQKYADjk-CEalvrBjfbl_ELjyQ/view?usp=sharing'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
-      
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Research Trainee
+    company_name: Mila - Quebec AI Institute
+    company_url: https://mila.quebec/en
+    date_start: 2026-05-31
+    summary: |2-
+      - Developing a privacy-preserving multimodal large language model system for personalized multiple-sclerosis lesion-activity prognosis from clinical narratives and MRI.
+      - Built a local retrieval-synthesis-critique pipeline with grounded evidence.
+      - Analyzing systematic failure subgroups using multimodal decision embeddings.
+
+      Supervised by Professor Tal Arbel.
+
   - position: Research Assistant
     company_name: University of British Columbia
-    company_url: 'https://www.cs.ubc.ca/labs/db/home.php'
-    # company_logo: '/assets/media/NMSL_logo.png'
+    company_url: https://www.cs.ubc.ca/labs/db/home.php
     date_start: 2025-06-01
-    date_end: 2025-10-10
+    date_end: 2026-06-01
     summary: |2-
-      There are two projects involved during this internship
+      - Proposed a fair resource-allocation framework with a probabilistic recommendation prior, optimizing global welfare while preserving user preferences under diversity constraints.
+      - Developed explainable graph-learning methods for psychosis prediction from conversational text, including speech-graph construction, classification, and graph-frequency interpretation.
 
-      1. Resource allocation algorithm
-      2. Graph based method on psychotic patient classification
+      Supervised by Professors Laks V. S. Lakshmanan and Xiaokui Xiao.
 
-      The projects are still in progress
-
-      Supervised by Professor Laks Lakshmanan, Xiaokui XIAO, Lena Palaniyappan
-
-      
-
-
-  - position: Researcher
+  - position: Student Researcher
     company_name: McGill University
-    company_url: 'https://dmas.lab.mcgill.ca'
-    company_logo: '/assets/media/DMAS_logo.jpg'
+    company_url: https://dmas.lab.mcgill.ca
+    company_logo: /assets/media/DMAS_logo.jpg
     date_start: 2025-01-01
     date_end: 2025-10-07
     summary: |2-
-      Goal: Detecting misinformation/bias on media outlets in unsupervised learning via LLM ensemble
+      - Developed MADS, an ensemble multi-agent LLM debate system for political-bias detection, with paragraph-embedding-based debate routing.
+      - Outperformed supervised-learning baselines and larger LLMs and contributed a dataset for political-article classification.
 
-      It is an **independent research contribution** under guidance by professor
+      Supervised by Professors Benjamin C. M. Fung and Elena Obukhova.
 
-      Key Responsibilities include:
-      - Introducing MADS, an unsupervised multi-agent debate framework for political bias detection that achieves state-of-the-art performance without training data, outperforming traditional supervised baselines including LSTM and BERT models while requiring no labeled examples for training.
-      - MADS provides interpretable bias detection through evidence-based argumentation, where each classification is accompanied by transparent reasoning chains that reveal the textual features, framework choices, and omissions the models identify as indicators of political bias, enabling users to understand and verify the basis of each classification.
-      - Constructing a comprehensive evaluation benchmark including a custom dataset of 473,989 news articles collected from major media outlets during the six months preceding the 2024 U.S. presidential election (May–November 2024), providing a timely resource for studying media bias during a critical period of democratic discourse.
-      
-      Supervised by Professor Benjamin C. M. Fung and Elena Obukhova
-
-      See Publication: <a href="/publication/MADS/">MADS: Ensemble LLM-based Multi-Agent Debate System for Political Bias Detection</a>
-
-  - position: Research Assistant
+  - position: Research Assistant, NSERC USRA
     company_name: Simon Fraser University
-    company_url: 'https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_%28NMSL%29'
-    company_logo: '/assets/media/NMSL_logo.png'
+    company_url: https://nmsl.cs.sfu.ca/index.php/Network_and_Multimedia_Systems_Lab_%28NMSL%29
+    company_logo: /assets/media/NMSL_logo.png
     date_start: 2024-05-06
     date_end: 2024-12-31
     summary: |2-
-      Responsibilities include:
-      - Theoretical analysis on best wavelengths on glucose prediction, using SHAP values for model interpretation
-      - Building regression models to predict glucose values
-      - Conducting data collection using various cameras such as Raspberry Pi and ToF depth cameras
-      - Assist and provide reasoning in other parts of the project
+      - Designed a mobile-device NIR data-collection protocol for non-invasive glucose concentration prediction.
+      - Applied deep learning to hyperspectral reconstruction and used model explanations to identify informative wavelengths for the sensing protocol.
 
-      Supervised by Professor Mohamed Hefeeda
+      Supervised by Professor Mohamed Hefeeda.
 
-      See Publication: <a href="/publication/GlucoSense/">GlucoSense: Non-Invasive Glucose Monitoring using Mobile Devices</a>
-      
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 90
         icon: python
       - name: C++
-        description: ''
+        description: ""
         percent: 80
         icon: devicon/cplusplus
       - name: Java
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/java
       - name: SQL
-        description: ''
+        description: ""
         percent: 90
         icon: devicon/azuresqldatabase
-      - name: html5
-        description: ''
+      - name: HTML
+        description: ""
         percent: 90
         icon: devicon/html5
-      - name: Pytorch
-        description: ''
+      - name: PyTorch
+        description: ""
         percent: 90
         icon: devicon/pytorch
       - name: R
-        description: ''
+        description: ""
         percent: 70
-        icon: "custom/r.svg"
+        icon: custom/r
       - name: OpenCV
-        description: ''
+        description: ""
         percent: 70
         icon: devicon/opencv
       - name: OpenGL
-        description: ''
+        description: ""
         percent: 70
         icon: devicon/opengl
       - name: NetworkX
-        description: ''
+        description: ""
         percent: 70
         icon: devicon/networkx
-      - name: Matlab
-        description: ''
+      - name: MATLAB
+        description: ""
         percent: 70
         icon: devicon/matlab
       - name: Linux
-        description: ''
+        description: ""
         percent: 70
         icon: devicon/linux
-
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Badminton
-        description: ''
-        percent: 70
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Guitar and Drums
-        description: ''
-        percent: 80
-        icon: hero/musical-note
 
 languages:
   - name: English
@@ -252,28 +162,31 @@ languages:
   - name: Chinese
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: NSERC USRA
-    url: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
-    date: '2024-05-06'
-    awarder: NSERC
-    # icon: coursera
+  - title: Synechron Scholarship in Computer Science
+    date: "2025-12-01"
+    awarder: Synechron Canada
     summary: |
-      Awards of $10000 + $1500 cad. An summer research internship at Simon Fraser Unversity. Build a non-invasive method of detecting glucose concentration using mobile device.
-  - title: YP Heung Post-Secondary Award
-    url: https://www.yphfoundation.org/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-17'
-    awarder: YP Heung Foundation
-    # icon: edx
-    summary: |
-      $5000 cad scholarship for being one of the best 6 science student at Langara College
+      $2,500 CAD scholarship awarded by McGill's Faculty of Science for outstanding academic merit in the Honours Computer Science program.
 
+  - title: Research Funding
+    date: "2025-02-05"
+    awarder: DMaS Lab, McGill University
+    summary: |
+      $16,000 CAD grant supporting research at McGill's Data Mining and Security Lab.
+
+  - title: NSERC Undergraduate Student Research Award
+    url: https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp
+    date: "2024-05-06"
+    awarder: NSERC
+    summary: |
+      $11,500 CAD in research support for work at Simon Fraser University.
+
+  - title: YP Heung Foundation Post-Secondary Award
+    date: "2023-07-13"
+    awarder: YP Heung Foundation
+    summary: |
+      $5,000 CAD award as one of the top six Faculty of Science students at Langara College.
 ---
 
-## About Me
-
-I am a year 4 undergraduate Computer Science student studying at McGill University, aiming at research as career goal. My interest areas are Computational Social Science, Data Mining, Computer Vision area. Pursuing thesis based MSc. and PhD.
+I am an incoming M.S. student in Computer Science at Stanford University and a research trainee at Mila - Quebec AI Institute. My research spans multimodal medical AI, trustworthy machine learning, large language models, fair decision systems, and computational social science.

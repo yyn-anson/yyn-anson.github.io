@@ -11,7 +11,7 @@ tags:
   - Fingerstyle
 ---
 
-The proper song on Valentine's day! I hope you enjoy the video! 🎸🎶
+A fingerstyle arrangement of "Nothing's Gonna Change My Love for You."
 
 ## Video
 

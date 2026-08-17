@@ -12,14 +12,12 @@ sections:
   - block: markdown
     content:
       text: |-
-        Welcome to my private corner of the internet! Here, you'll find videos showcasing my favorite hobbies guitar 🎸 and drums 🥁. Plus, I love sharing fun moments from my life 🎬.
+        Outside research, I play guitar and drums. This page collects a few performances and recordings.
 
-        Music has been my passion for years, and each chord strummed or beat played brings me endless joy and growth.
-
-        I believe that following what makes your heart sing is the secret recipe to mastering any skill ❤️.
+        Music has been a long-standing creative practice and an important balance to my academic work.
   - block: collection
     content:
-      title: 'Guitar Fingerstyle 🎸'
+      title: 'Guitar Fingerstyle'
       filters:
         tag: 'Guitar'
     design:
@@ -28,11 +26,11 @@ sections:
       columns: 1
   - block: collection
     content:
-      title: 'Band 🎤'
+      title: 'Band Performances'
       filters:
         tag: 'Band'
     design:
       view: article-grid
       fill_image: false
       columns: 1
---- 
+---

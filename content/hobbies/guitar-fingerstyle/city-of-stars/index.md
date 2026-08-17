@@ -11,7 +11,7 @@ tags:
   - Fingerstyle
 ---
 
-I first fell in love with "City of Stars" while I was watching _La La Land_ on a airplane✨. I hope you enjoy the video! 🎸🎶
+A fingerstyle arrangement of "City of Stars" from _La La Land_.
 
 ## Video
 

@@ -11,7 +11,7 @@ tags:
   - Fingerstyle
 ---
 
-曖昧欠揍, I love this song so much!🙉 I hope you enjoy the video! 🎸🎶
+A fingerstyle guitar performance of "我的爱没前奏."
 
 ## Video
 

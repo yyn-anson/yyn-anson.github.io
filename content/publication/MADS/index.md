@@ -8,6 +8,9 @@ authors:
 - admin
 - Benjamin C. M. Fung
 - Elena Obukhova
+- D. Mouheb
+- C. Huang
+- S. Huang
 
 # Author notes (optional)
 # author_notes:
@@ -26,8 +29,8 @@ publishDate: '2025-10-07T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "The Web Conference 2026"
-publication_short: "WWW 2026"
+publication: "Submitted to *DSAA 2026*"
+publication_short: "Submitted to *DSAA 2026*"
 
 abstract: |2-
   In the contemporary digital information ecosystem, algorithmic curation and social media amplification have transformed news consumption, creating echo chambers that reinforce partisan narratives and making it increasingly difficult for readers to identify biased reporting. Political bias detection presents fundamental challenges: news articles interweave facts, opinions, and selective framing across thousands of words, where subtle omissions and word choices can be as influential as explicit statements. Traditional supervised approaches require costly expert annotations that struggle to keep pace with the volume and evolution of online content. We introduce an unsupervised framework leveraging multi-agent debate among large language models to detect political bias without training data. By orchestrating structured deliberation among three diverse LLMs, our approach enables models to challenge each other's interpretations through evidence-based argumentation, exposing biases that individual models miss while providing interpretable reasoning chains. Across comprehensive evaluations on 3 separate datasets (totalling over 7,000 articles) from major U.S. media outlets, our framework achieves competitive performance with unsupervised methods on expert-annotated datasets while outperforming established supervised baselines from prior work. We also contribute a benchmark of 473,989 articles collected during the 2024 U.S. election period. This work demonstrates that multi-agent deliberation can transform political bias detection from an annotation-dependent task to an unsupervised reasoning problem, providing transparent, evidence-grounded classifications essential for media literacy in democratic discourse.

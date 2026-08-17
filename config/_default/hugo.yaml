@@ -10,7 +10,7 @@
 # to the URL of your website.
 title: Yik Yu Ng
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://yyn-anson.github.io/'
 
 ############################
 ## LANGUAGE
@@ -29,8 +29,9 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
-enableEmoji: true
+pagination:
+  pagerSize: 10
+enableEmoji: false
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]

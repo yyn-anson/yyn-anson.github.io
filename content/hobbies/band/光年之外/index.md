@@ -11,7 +11,7 @@ tags:
   - Montreal
 ---
 
-Our first recorded song!🤩 I hope you enjoy the video! 🎸🎶
+Our band's first recorded performance, featuring "光年之外."
 
 ## Video
 
